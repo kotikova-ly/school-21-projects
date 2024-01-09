@@ -128,7 +128,7 @@ WHERE Quantity > 9
 ORDER BY OrderID DESC
 ```
 
-Получаем таблицу, которая содержит столбцы OrderID, ProductID, Quantity. В таблице отражены только те заказы, количество котовых > 9. Данные расположены в порядке убывания OrderID.
+Получаем таблицу, которая содержит столбцы OrderID, ProductID, Quantity. В таблице отражены только те заказы, количество которых > 9. Данные расположены в порядке убывания OrderID.
 
 ![Alt text]( /project%201/screenshots/Screenshot_11.png)
 
