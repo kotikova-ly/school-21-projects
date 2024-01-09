@@ -11,7 +11,7 @@ ORDER BY ContactName
 
 Получаем таблицу, которая содержит сталбцы ContactName и Country. Данные расположены в алфавитном порядке по столбцу ContactName.
 
-ссылка
+![Alt text]( /screenshots/Screenshot_1.png)
 
 2. 
 ```sql
